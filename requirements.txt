@@ -1,2 +1,2 @@
 streamlit
-paho-mqtt
+pandas
